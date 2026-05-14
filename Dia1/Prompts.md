@@ -1,4 +1,4 @@
-### **Prompt 1: Comprensión**
+### Prompt 1: Comprensión
 
 - Actúa como un especialista en___________ con experiencia en técnicas de estudio. Explícame de forma sencilla el tema de __________ aplicando la técnica de Feynman y la interrogación elaborativa. Explícame el tema utilizando preguntas de este tipo: ¿Qué? ¿Cómo? ¿Dónde? ¿Cuál? Organiza la explicación por ideas clave, dame una explicación fácil de entender con ejemplos para mejorar mi comprensión del tema.
 - ✅ **Resultado (abrir)**
